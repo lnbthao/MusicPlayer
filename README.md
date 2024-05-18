@@ -1,7 +1,8 @@
 # Report
 [Report.pdf](https://github.com/ThunSuy/FatalSiege/blob/master/BaoCao.pdf)
+
 # Introduction
-Fatal siege is a 2-player game, belonging to the tower defense genre combining real-time strategy, developed in the Python language, using the Pygame library.
+
 # How to install
 * Step 1: [Click here to download the game.](https://github.com/ThunSuy/FatalSiege)
 * Step 2: Click button Code and DOWLOAD ZIP.
@@ -9,7 +10,7 @@ Fatal siege is a 2-player game, belonging to the tower defense genre combining r
 
 # Game footage
 <p align="center">
-    <img src="https://i.pinimg.com/736x/ee/14/40/ee1440b712b7d47e1b7ce07ca6f64bb4.jpg" alt="main_menu">
+    <img src="https://i.pinimg.com/236x/f1/1c/98/f11c9833af864b79bc1beb344cfe3614.jpg" alt="main_menu">
 </p>
 <p align="center">
     <img src="https://i.pinimg.com/736x/ef/d1/10/efd11001a2fd7ddc0173e05fcf63824b.jpg" alt="start">
@@ -19,6 +20,6 @@ Fatal siege is a 2-player game, belonging to the tower defense genre combining r
 </p>
 
 # Developers
-* [Do Thi Nhu Quynh]
-* [Le Minh Thuan]
-* [Nguyen Thi Bich Tram]
+* [Le Ngoc Bich Thao]
+* [Ly Van Cong]
+* [Nguyen Quoc Thanh]
